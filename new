@@ -1,0 +1,2 @@
+php artisan make:policy PostPolicy --model=Post
+php artisan make:policy CommentPolicy --model=Comment
